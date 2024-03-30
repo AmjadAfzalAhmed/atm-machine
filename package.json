@@ -1,12 +1,13 @@
 {
   "name": "@amjad_bhutto/atm-machine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI Atm Machine",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
   },
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
